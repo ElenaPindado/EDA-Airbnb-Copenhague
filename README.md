@@ -12,7 +12,7 @@ Datos obtenidos: (http://insideairbnb.com/get-the-data)
 
 # Overview
 
--Reporte generado a través de Pandas Profiling
+- Reporte generado a través de Pandas Profiling
 
 <img width="743" alt="image" src="https://user-images.githubusercontent.com/123492666/221579072-57ca9510-f979-48a1-babd-3c69c7e9db3a.png">
 
