@@ -6,11 +6,13 @@ Análisis de los alojamientos de Airbnb en Copenhague, Dinamarca
 Datos obtenidos: (http://insideairbnb.com/get-the-data)
 
 # Contenido Repositorio
-- Puedes ver la fuente de los datos y los requerimientos, un Overview de los datos generados a través de Pandas Profiling en Html y el Notebook con el análisis completo. 
+- Puedes ver la fuente de los datos y los requerimientos, un Overview de los datos generado a través de Pandas Profiling en Html y el Notebook con el análisis completo. 
 
 # Resumen Contenido
 
 # Overview
+
+-Reporte generado a través de Pandas Profiling
 
 <img width="743" alt="image" src="https://user-images.githubusercontent.com/123492666/221579072-57ca9510-f979-48a1-babd-3c69c7e9db3a.png">
 
