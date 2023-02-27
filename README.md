@@ -14,7 +14,9 @@ Datos obtenidos: (http://insideairbnb.com/get-the-data)
 
 <img width="743" alt="image" src="https://user-images.githubusercontent.com/123492666/221579072-57ca9510-f979-48a1-babd-3c69c7e9db3a.png">
 
-# Algunos de los gráficos que podremos ver en este análisis 
+# Algunos de los gráficos que podremos ver en este análisis : 
+
+# Gráficos creados a través de Matplotlib 
 
 ![grafico](https://user-images.githubusercontent.com/123492666/221597330-1e034bf3-b225-4a02-af96-75ba612571ad.png)
 
