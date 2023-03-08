@@ -1,6 +1,6 @@
 # EDA Airbnb Copenhague
 
-Análisis de los alojamientos de Airbnb en Copenhague, Dinamarca
+Análisis de los alojamientos ofrecidos por Airbnb en Copenhague, Dinamarca. Se realiza este análisis a través de Python, visualización y DataStoryTelling a través de varias librerías como Matplotlib, Seaborn, Plotly y Folium.
 
 # Data
 Datos obtenidos: (http://insideairbnb.com/get-the-data)
